@@ -1,0 +1,8 @@
+Revision history for Perl extension Math::Rotation.
+
+1.01 Tue Apr  3 20:13:23 CEST 2007
+	- Corrected ugly syntax error (which yielded valid Perl, no less!).
+	  This prevented some of the examples from running at all!
+
+1.00  Tue Apr  3 20:13:39 CEST 2007
+	- original version as uploaded to CPAN

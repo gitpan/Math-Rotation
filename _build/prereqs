@@ -1,0 +1,18 @@
+{
+          'build_requires' => {
+                                'Test::More' => 0
+                              },
+          'conflicts' => {},
+          'requires' => {
+                          'warnings' => 0,
+                          'strict' => 0,
+                          'overload' => 0,
+                          'constant' => 0,
+                          'Math::Quaternion' => 0,
+                          'Carp' => 0
+                        },
+          'recommends' => {
+                            'Test::Pod::Coverage' => '1.0',
+                            'Test::Pod' => '1.0'
+                          }
+        }
